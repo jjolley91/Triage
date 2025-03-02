@@ -1,4 +1,4 @@
-**Title: Malicious Process Triage Capstone**
+**Title: Malicious Process on Compromised Windows Endpoint**
 
 **Name: James Jolley**
 
@@ -39,7 +39,7 @@ We then inspected autoruns and a registry key in HKCU\\SOFTWARE\\Microsoft\\Wind
 
 *Figure 2- We observe A persistence mechanism which created registry run keys*
 
-![][image2]
+![image2][image2]
 
 *Figure 2.1- Registry Hive location of the persistence*
 
